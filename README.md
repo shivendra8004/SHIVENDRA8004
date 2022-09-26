@@ -1,5 +1,8 @@
 # Hii there✨, I'm Shivendra Jat 
 <h3>3rd Year Engineering student at Jaypee University of Engineering and Technology</h3>
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;">
+  
+</div>
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SHIVENDRA8004&show_icons=true&theme=radical" />
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVENDRA8004&layout=compact" /><br>
