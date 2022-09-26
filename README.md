@@ -1,7 +1,7 @@
 # Hii there✨, I'm Shivendra Jat 
 <h3>3rd Year Engineering student at Jaypee University of Engineering and Technology</h3>
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;">
-  <img alt="coder" align="center" src="https://github.com/SHIVENDRA8004/SHIVENDRA8004/blob/main/coder.gif" height="200" width="200" />
+<div align="center" style="width:100%;height:0;padding-bottom:57%;position:relative;">
+  <img alt="coder"  src="https://github.com/SHIVENDRA8004/SHIVENDRA8004/blob/main/coder.gif" height="200" width="200" />
 </div>
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SHIVENDRA8004&show_icons=true&theme=radical" />
@@ -37,6 +37,6 @@
   <a href="mailto:shivendrajat8004.com"><img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/7828278004?text=Hey%20Shivendra%2C%20Lets%20have%20a%20chat"><img align="left" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div><br><br>
-<div>
-  <img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=SHIVENDRA8004" />
+<div align="center"> 
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=SHIVENDRA8004" />
 </div>
