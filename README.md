@@ -7,7 +7,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SHIVENDRA8004&show_icons=true&theme=radical" />
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVENDRA8004&layout=compact" /><br>
 </div><br>
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;">
+<div style="width:90%;height:0;padding-bottom:57%;position:relative;">
 <img align="center" src="https://streak-stats.demolab.com/?user=SHIVENDRA8004&theme=dark" />
 </div>
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;">
