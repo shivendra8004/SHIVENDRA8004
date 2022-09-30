@@ -5,10 +5,10 @@
 </div>
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SHIVENDRA8004&show_icons=true&theme=radical" />
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVENDRA8004&layout=compact" /><br>
+<img align="left" width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVENDRA8004&layout=compact" /><br>
 </div><br>
 <div align="center" style="width:100%;height:0;padding-bottom:57%;position:relative;">
-<img align="center" style="left:10%" width="40%" src="https://streak-stats.demolab.com/?user=SHIVENDRA8004&theme=dark" />
+<img  style="left:10%" width="45%" src="https://streak-stats.demolab.com/?user=SHIVENDRA8004&theme=dark" />
 </div>
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;">
   <h2>Browsers</h2>
