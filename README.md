@@ -8,7 +8,7 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVENDRA8004&layout=compact" /><br>
 </div><br>
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;">
-<img align="center" width="50%" src="https://streak-stats.demolab.com/?user=SHIVENDRA8004&theme=dark" />
+<img align="center" style="left:10%" width="50%" src="https://streak-stats.demolab.com/?user=SHIVENDRA8004&theme=dark" />
 </div>
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;">
   <h2>Browsers</h2>
