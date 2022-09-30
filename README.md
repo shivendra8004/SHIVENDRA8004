@@ -8,6 +8,9 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVENDRA8004&layout=compact" /><br>
 </div>
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;">
+<img align="center" src="https://streak-stats.demolab.com/?user=SHIVENDRA8004&theme=dark" />
+</div>
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;">
   <h2>Browsers</h2>
   <img align="left" alt="Brave"src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
   <img align="left" alt="Edge"src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
