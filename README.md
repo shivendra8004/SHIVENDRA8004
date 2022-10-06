@@ -4,7 +4,7 @@
   <img alt="coder"  src="https://github.com/SHIVENDRA8004/SHIVENDRA8004/blob/main/coder.gif" height="200" width="200" />
 </div>
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SHIVENDRA8004&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shivendra8004&show_icons=true&theme=radical"/>
 <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVENDRA8004&layout=compact" /><br>
 </div><br>
 <div align="center"">
