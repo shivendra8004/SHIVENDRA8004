@@ -41,8 +41,5 @@
   <a href="https://wa.me/7828278004?text=Hey%20Shivendra%2C%20Lets%20have%20a%20chat"><img align="left" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div><br><br>
 <div align="center" style="width:100%;height:0;padding-bottom:57%;position:relative;"> 
-  <img src="https://github.com/SHIVENDRA8004/SHIVENDRA8004/blob/output/github-contribution-grid-snake.gif" />
-</div><br><br>
-<div align="center" style="width:100%;height:0;padding-bottom:57%;position:relative;"> 
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=SHIVENDRA8004" />
 </div>
