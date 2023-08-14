@@ -1,5 +1,5 @@
 # Hii there✨, I'm Shivendra Jat 
-<h3>3rd Year Engineering student at Jaypee University of Engineering and Technology</h3>
+<h3>Final Year Engineering student at Jaypee University of Engineering and Technology</h3>
 <div align="center" style="width:100%;height:0;padding-bottom:57%;position:relative;">
   <img alt="coder"  src="https://github.com/SHIVENDRA8004/SHIVENDRA8004/blob/main/coder.gif" height="200" width="200" />
 </div>
