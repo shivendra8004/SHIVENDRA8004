@@ -28,15 +28,15 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<p align="center">
- <img alt="Coding" width="50%" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif">
-</p>
 
+<p align="center">
+ <img alt="Coding" width="100%" src="https://github.com/shivendra8004/SHIVENDRA8004/blob/main/gitartwork.svg">
+</p>
 <br />
 
 <h2 align="center">GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVENDRA8004&show_icons=true&theme=react" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVENDRA8004&show_icons=true&theme=react" width="60%" />
 </p>
 
 <br />
